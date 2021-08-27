@@ -1,3 +1,7 @@
+## Experiments
+We will fork each NFT experiment from this repo - see the branches for experiment names.
+
+
 ## About
 Python Notebook in Jupyter that will generate a series of unique images using a collection of layers.
 
